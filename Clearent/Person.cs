@@ -7,7 +7,7 @@ namespace Clearent
     class Person
     {
         List<Wallet> _walletsList = new List<Wallet>();
-
+-- nothing important just test
         public List<Wallet> WalletsList
         {
             get { return _walletsList; }
